@@ -1,6 +1,6 @@
 {
     "id": "hosting",
-    "cpu": 0.5,
+    "cpu": 2,
     "memory": 128,
     "scale": 2,
     "image": "wedeploy/hosting",
